@@ -46,7 +46,7 @@
 > 👉 **Step 1** - Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/material-dashboard-flask.git
+$ https://github.com/Superman111298/material-dashboard-flask.git
 $ cd material-dashboard-flask
 ```
 
